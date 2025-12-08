@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .PHOTOGRAPHY one-word domains still available to buy.
 
-This dataset contains 4,330 .PHOTOGRAPHY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,656 .PHOTOGRAPHY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.PHOTOGRAPHY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=photography-oneword-domains&utm_content=description.top) (4,329) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.PHOTOGRAPHY one word 
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/photography-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/photography-oneword-domains/blob/main/photography.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/photography-oneword-domains/blob/main/photography.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/photography-oneword-domains/blob/main/photography.csv"><b>⬇️ CSV (4.66K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/photography-oneword-domains/blob/main/photography.json"><b>⬇️ JSON (4.66K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=photography-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.33K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain                 | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
 | ---------------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
-| aaa.photography        | premium   | 70       | 38%    | 3      |                   |                  |                  |
+| aaa.photography        | premium   | 70       | 35%    | 3      |                   |                  |                  |
 | abactinal.photography  | available | 50       | 1%     | 9      |                   |                  |                  |
 | abaft.photography      | available | 43       | 2%     | 5      |                   |                  |                  |
 | abashed.photography    | available | 60       | 2%     | 7      |                   |                  |                  |
@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.PHOTOGRAPHY one word 
 | abatic.photography     | available | 54       | 2%     | 6      |                   |                  |                  |
 | abaxial.photography    | available | 54       | 2%     | 7      |                   |                  |                  |
 | abbatial.photography   | available | 50       | 1%     | 8      |                   |                  |                  |
-| abc.photography        | resell    | 102      | 41%    | 3      | Sav.com, LLC - 23 | 30/11/2024 15:15 | 30/11/2025 15:15 |
+| abc.photography        | resell    | 102      | 39%    | 3      | Sav.com, LLC - 23 | 30/11/2024 15:15 | 30/11/2026 15:15 |
 | abdicable.photography  | available | 50       | 1%     | 9      |                   |                  |                  |
 | abdominal.photography  | available | 82       | 5%     | 9      |                   |                  |                  |
 | abdominous.photography | available | 56       | 1%     | 10     |                   |                  |                  |
@@ -44,8 +44,8 @@ If you want to search & filters the complete database of [.PHOTOGRAPHY one word 
 | abhorrent.photography  | available | 54       | 3%     | 9      |                   |                  |                  |
 | abiding.photography    | available | 106      | 5%     | 7      |                   |                  |                  |
 | abient.photography     | available | 54       | 1%     | 6      |                   |                  |                  |
-| ability.photography    | available | 92       | 18%    | 7      |                   |                  |                  |
-| abit.photography       | available | 66       | 16%    | 5      |                   |                  |                  |
+| ability.photography    | available | 92       | 16%    | 7      |                   |                  |                  |
+| abit.photography       | available | 66       | 12%    | 5      |                   |                  |                  |
 | abject.photography     | available | 94       | 8%     | 6      |                   |                  |                  |
 | abkhas.photography     | available | 68       | 1%     | 6      |                   |                  |                  |
 | abkhasian.photography  | available | 78       | 1%     | 9      |                   |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.PHOTOGRAPHY one word 
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/photography-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/photography-oneword-domains/blob/main/photography.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/photography-oneword-domains/blob/main/photography.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/photography-oneword-domains/blob/main/photography.csv"><b>⬇️ CSV (4.66K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/photography-oneword-domains/blob/main/photography.json"><b>⬇️ JSON (4.66K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=photography-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.33K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.PHOTOGRAPHY one word 
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
