@@ -64,16 +64,16 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| simple.photography   | available | $9.99     | $46.99        | 128            | 48     | 6      | name.com          |
+| simple.photography   | available | $9.99     | $46.99        | 128            | 49     | 6      | name.com          |
 | cat.photography      | resell    | —         | —             | 92             | 80     | 3      | GoDaddy.com, LLC  |
 | business.photography | premium   | $260      | $260          | 100            | 53     | 8      | namecheap         |
 | trade.photography    | available | $46.48    | —             | 116            | 46     | 5      | namecheap         |
 | code.photography     | resell    | —         | —             | 72             | 61     | 4      | Porkbun LLC       |
-| design.photography   | premium   | $520      | $520          | 108            | 50     | 6      | namecheap         |
+| design.photography   | premium   | $520      | $520          | 108            | 49     | 6      | namecheap         |
 | creator.photography  | available | $9.99     | $46.99        | 70             | 45     | 7      | name.com          |
 | the.photography      | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
-| digital.photography  | premium   | $500      | $500          | 100            | 50     | 7      | name.com          |
-| forge.photography    | available | $9.99     | $46.99        | 62             | 45     | 5      | name.com          |
+| digital.photography  | premium   | $500      | $500          | 100            | 49     | 7      | name.com          |
+| forge.photography    | available | $9.99     | $46.99        | 62             | 44     | 5      | name.com          |
 | blue.photography     | resell    | —         | —             | 92             | 58     | 4      | GoDaddy.com, LLC  |
 | true.photography     | premium   | $82.50    | $82.50        | 86             | 48     | 4      | name.com          |
 | wizard.photography   | available | $9.99     | $46.99        | 118            | 43     | 6      | name.com          |
