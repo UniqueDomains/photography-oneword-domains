@@ -1,22 +1,22 @@
-# Available .PHOTOGRAPHY One-Word Domains (8,787)
+# Available .PHOTOGRAPHY One-Word Domains (11,205)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C787%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C787%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C205%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .photography one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .photography one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,205 domains** on the canonical page below.
 
-**Public extract:** 8,787 rows · **Live catalog:** 8,787 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,205 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/photography`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PHOTOGRAPHY one-word 
 
 ### Files
 
-- `photography.csv` — public CSV extract (8,787 rows)
-- `photography.json` — public JSON extract (8,787 rows)
+- `photography.csv` — public CSV extract (1,000 rows)
+- `photography.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| simple.photography   | available | $9.99     | $46.99        | 128            | 49     | 6      | name.com          |
-| cat.photography      | resell    | —         | —             | 92             | 80     | 3      | GoDaddy.com, LLC  |
-| business.photography | premium   | $260      | $260          | 100            | 53     | 8      | namecheap         |
-| trade.photography    | available | $46.48    | —             | 116            | 46     | 5      | namecheap         |
-| code.photography     | resell    | —         | —             | 72             | 61     | 4      | Porkbun LLC       |
-| design.photography   | premium   | $520      | $520          | 108            | 49     | 6      | namecheap         |
-| creator.photography  | available | $9.99     | $46.99        | 70             | 45     | 7      | name.com          |
-| the.photography      | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
-| digital.photography  | premium   | $500      | $500          | 100            | 49     | 7      | name.com          |
-| forge.photography    | available | $9.99     | $46.99        | 62             | 44     | 5      | name.com          |
-| blue.photography     | resell    | —         | —             | 92             | 58     | 4      | GoDaddy.com, LLC  |
-| true.photography     | premium   | $82.50    | $82.50        | 86             | 48     | 4      | name.com          |
-| wizard.photography   | available | $9.99     | $46.99        | 118            | 43     | 6      | name.com          |
-| data.photography     | resell    | —         | —             | 70             | 56     | 4      | Sav.com, LLC - 10 |
-| big.photography      | premium   | $26       | $26           | 88             | 47     | 3      | namecheap         |
-| strategy.photography | available | $46.48    | —             | 74             | 43     | 8      | namecheap         |
-| future.photography   | resell    | —         | —             | 94             | 55     | 6      | Sav.com, LLC - 12 |
-| snap.photography     | premium   | $250      | $250          | 90             | 46     | 4      | name.com          |
-| cosmos.photography   | available | $9.99     | —             | 74             | 42     | 6      | name.com          |
-| email.photography    | resell    | —         | —             | 106            | 54     | 6      | Dynadot Inc       |
+| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| agents.photography       | available | $9.99     | —             | 56             | 50     | 6      | name.com         |
+| Ryan.photography         | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
+| Tools.photography        | premium   | $28       | $28           | 56             | 40     | 5      | namecheap        |
+| robots.photography       | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
+| photos.photography       | resell    | —         | —             | 54             | 28     | 6      | Sav.com, LLC     |
+| SanDiego.photography     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
+| skills.photography       | available | $9.99     | —             | 58             | 47     | 6      | name.com         |
+| pestcontrol.photography  | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
+| brothers.photography     | premium   | $500      | —             | 60             | 22     | 8      | name.com         |
+| matcha.photography       | available | $9.99     | —             | 86             | 39     | 6      | name.com         |
+| hills.photography        | premium   | $28       | $28           | 65             | 20     | 5      | namecheap        |
+| partners.photography     | available | $9.99     | —             | 61             | 32     | 8      | name.com         |
+| watches.photography      | premium   | $28       | $28           | 84             | 19     | 7      | namecheap        |
+| trends.photography       | available | $9.99     | —             | 60             | 32     | 6      | name.com         |
+| templates.photography    | premium   | $123.75   | —             | 54             | 17     | 9      | name.com         |
+| commonground.photography | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
+| landscaping.photography  | premium   | $28       | $28           | 80             | 16     | 11     | namecheap        |
+| gems.photography         | available | $9.99     | —             | 70             | 28     | 4      | name.com         |
+| reflections.photography  | premium   | $250      | —             | 53             | 16     | 11     | name.com         |
+| KFC.photography          | available | $46.48    | —             | 74             | 27     | 3      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,787-row public sample | 8,787 live domains                               |
+| 1,000-row public sample | 11,205 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
