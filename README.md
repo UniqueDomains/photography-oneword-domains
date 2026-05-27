@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| agents.photography       | available | $9.99     | —             | 56             | 50     | 6      | name.com         |
-| Ryan.photography         | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
-| Tools.photography        | premium   | $28       | $28           | 56             | 40     | 5      | namecheap        |
-| robots.photography       | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
-| photos.photography       | resell    | —         | —             | 54             | 28     | 6      | Sav.com, LLC     |
-| SanDiego.photography     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
-| skills.photography       | available | $9.99     | —             | 58             | 47     | 6      | name.com         |
-| pestcontrol.photography  | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
-| brothers.photography     | premium   | $500      | —             | 60             | 22     | 8      | name.com         |
-| matcha.photography       | available | $9.99     | —             | 86             | 39     | 6      | name.com         |
-| crows.photography        | resell    | —         | —             | 68             | 12     | 5      | GoDaddy.com, LLC |
-| hills.photography        | premium   | $28       | $28           | 65             | 20     | 5      | namecheap        |
-| partners.photography     | available | $9.99     | —             | 61             | 32     | 8      | name.com         |
-| watches.photography      | premium   | $28       | $28           | 84             | 19     | 7      | namecheap        |
-| trends.photography       | available | $9.99     | —             | 60             | 32     | 6      | name.com         |
-| templates.photography    | premium   | $123.75   | —             | 54             | 17     | 9      | name.com         |
-| slots.photography        | available | $9.99     | —             | 49             | 31     | 5      | name.com         |
-| landscaping.photography  | premium   | $28       | $28           | 80             | 16     | 11     | namecheap        |
-| commonground.photography | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
-| reflections.photography  | premium   | $250      | —             | 53             | 16     | 11     | name.com         |
+| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| agents.photography      | available | $9.99     | —             | 56             | 50     | 6      | name.com         |
+| Ryan.photography        | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
+| Tools.photography       | premium   | $28       | $28           | 56             | 40     | 5      | namecheap        |
+| robots.photography      | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
+| photos.photography      | resell    | —         | —             | 54             | 28     | 6      | Sav.com, LLC     |
+| SanDiego.photography    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
+| skills.photography      | available | $9.99     | —             | 58             | 47     | 6      | name.com         |
+| pestcontrol.photography | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
+| brothers.photography    | premium   | $500      | —             | 60             | 22     | 8      | name.com         |
+| matcha.photography      | available | $9.99     | —             | 86             | 39     | 6      | name.com         |
+| crows.photography       | resell    | —         | —             | 68             | 12     | 5      | GoDaddy.com, LLC |
+| hills.photography       | premium   | $28       | $28           | 65             | 20     | 5      | namecheap        |
+| trends.photography      | available | $9.99     | —             | 60             | 32     | 6      | name.com         |
+| watches.photography     | premium   | $28       | $28           | 84             | 19     | 7      | namecheap        |
+| partners.photography    | available | $9.99     | —             | 61             | 31     | 8      | name.com         |
+| templates.photography   | premium   | $123.75   | —             | 54             | 17     | 9      | name.com         |
+| slots.photography       | available | $9.99     | —             | 49             | 31     | 5      | name.com         |
+| landscaping.photography | premium   | $28       | $28           | 80             | 16     | 11     | namecheap        |
+| gods.photography        | available | $9.99     | —             | 72             | 29     | 4      | name.com         |
+| reflections.photography | premium   | $250      | —             | 53             | 16     | 11     | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
