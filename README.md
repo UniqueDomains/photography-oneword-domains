@@ -1,10 +1,10 @@
-# Available .PHOTOGRAPHY One-Word Domains (11,681)
+# Available .PHOTOGRAPHY One-Word Domains (11,682)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C681%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C682%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .photography one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,681 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,682 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,681 domains · **Median ask:** $15.08 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,682 domains · **Median ask:** $15.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/photography`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/photography`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PHOTOGRAPHY one-word 
 
 ### Files
 
-- `photography.csv` — public CSV extract (1,000 rows)
-- `photography.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `photography.csv`, public CSV extract (1,000 rows)
+- `photography.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| agents.photography      | available | $9.99     | —             | 56             | 50     | 6      | name.com         |
-| Ryan.photography        | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
-| Tools.photography       | premium   | $28       | $28           | 56             | 40     | 5      | namecheap        |
-| robots.photography      | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
-| photos.photography      | resell    | —         | —             | 54             | 28     | 6      | Sav.com, LLC     |
-| SanDiego.photography    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
-| skills.photography      | available | $9.99     | —             | 58             | 47     | 6      | name.com         |
-| pestcontrol.photography | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
-| brothers.photography    | premium   | $500      | —             | 60             | 22     | 8      | name.com         |
-| matcha.photography      | available | $9.99     | —             | 86             | 39     | 6      | name.com         |
-| crows.photography       | resell    | —         | —             | 68             | 12     | 5      | GoDaddy.com, LLC |
-| hills.photography       | premium   | $28       | $28           | 65             | 20     | 5      | namecheap        |
-| trends.photography      | available | $9.99     | —             | 60             | 32     | 6      | name.com         |
-| watches.photography     | premium   | $28       | $28           | 84             | 19     | 7      | namecheap        |
-| partners.photography    | available | $9.99     | —             | 61             | 31     | 8      | name.com         |
-| templates.photography   | premium   | $123.75   | —             | 54             | 17     | 9      | name.com         |
-| slots.photography       | available | $9.99     | —             | 49             | 31     | 5      | name.com         |
-| landscaping.photography | premium   | $28       | $28           | 80             | 16     | 11     | namecheap        |
-| gods.photography        | available | $9.99     | —             | 72             | 29     | 4      | name.com         |
-| reflections.photography | premium   | $250      | —             | 53             | 16     | 11     | name.com         |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| out.photography    | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo          |
+| sorry.photography  | available | $9.99     | $46.99        | high           | low    | 5      | name.com          |
+| come.photography   | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| quiet.photography  | available | $9.99     | —             | high           | low    | 5      | name.com          |
+| here.photography   | premium   | $23.60    | $23.60        | high           | medium | 4      | namesilo          |
+| simple.photography | available | $9.99     | $46.99        | high           | medium | 6      | name.com          |
+| away.photography   | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| ground.photography | available | $9.99     | —             | high           | low    | 6      | name.com          |
+| heavy.photography  | available | $9.99     | —             | high           | low    | 5      | name.com          |
+| bce.photography    | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| air.photography    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| ate.photography    | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo          |
+| Eid.photography    | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| eat.photography    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| bid.photography    | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo          |
+| xix.photography    | available | $9.99     | $46.99        | high           | low    | 3      | name.com          |
+| data.photography   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10 |
+| boo.photography    | premium   | $28       | $28           | high           | low    | 3      | namecheap         |
+| xxv.photography    | available | $9.99     | $46.99        | medium         | low    | 3      | name.com          |
+| move.photography   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,681 live domains                        |
+| 1,000-row public sample | 11,682 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .photography domains. The names range from descriptive terms like football.photography and candle.photography to broader words like campaign.photography and info.photography. For founders, the main question is whether the word is memorable, relevant, and easy to trust as a standalone brand. For investors, the key test is whether the keyword has clear end-user use and enough specificity to support resale interest. With a median ask of 15.08, the decision is less about entry price and more about choosing words that fit real photography niches, services, subjects, or commercial use cases without creating confusion.
+This selection brings together 11,682 one-word .photography domains, each pairing a short common word with the .photography extension. With a median ask near $15, these names offer an accessible entry point for photography studios, freelance photographers, and creative portfolios searching for a clean, ownable domain. Comparing pricing and renewal costs across this set makes it easier to shortlist names that fit both budget and brand.
 
-- Favor words with clear photography use or subject relevance
-- Check if the word reads naturally before .photography
-- Compare broad terms vs niche terms for buyer depth
-- Review renewal fit before choosing speculative terms
+- 11,682 one-word .photography domains in this selection
+- Median asking price near $15 for this domain set
+- Short, brandable names suited to photography brands
+- Compare pricing and renewal costs before you choose
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
