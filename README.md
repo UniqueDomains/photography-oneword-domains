@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .photography one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,248 domains · **Median ask:** $11.00 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/photography`
 **Best for:** founders, investors, studios
 
@@ -65,15 +65,15 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | bce.photography   | available | $9.99     | —             | medium         | low    | 3      | name.com          |
-| air.photography   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| air.photography   | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC  |
 | ape.photography   | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo          |
 | clx.photography   | available | $6.98     | $46.48        | low            | low    | 3      | namecheap         |
 | eat.photography   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
 | ate.photography   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo          |
 | cxl.photography   | available | $6.98     | $46.48        | low            | low    | 3      | namecheap         |
-| data.photography  | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 10 |
+| data.photography  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 10 |
 | bid.photography   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo          |
-| Eid.photography   | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| eid.photography   | available | $9.99     | —             | high           | low    | 3      | name.com          |
 | move.photography  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 | boo.photography   | premium   | $28       | $28           | high           | low    | 3      | namecheap         |
 | xix.photography   | available | $9.99     | $46.99        | high           | low    | 3      | name.com          |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
