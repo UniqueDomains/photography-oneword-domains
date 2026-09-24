@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .photography one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,400 domains · **Median ask:** $11.36 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/photography`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| sorry.photography | available | $9.99     | $46.99        | high           | low    | 5      | name.com          |
+| come.photography  | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| here.photography  | premium   | $23.60    | $23.60        | high           | medium | 4      | namesilo          |
 | bce.photography   | available | $9.99     | —             | medium         | low    | 3      | name.com          |
 | air.photography   | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC  |
 | ape.photography   | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo          |
@@ -81,9 +84,6 @@ print(df.head())
 | ccc.photography   | premium   | $23.60    | $23.60        | low            | medium | 3      | namesilo          |
 | xxv.photography   | available | $14.49    | $36.49        | low            | low    | 3      | namesilo          |
 | earth.photography | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc.   |
-| dew.photography   | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo          |
-| acid.photography  | available | $6.98     | $46.48        | medium         | low    | 4      | namecheap         |
-| panda.photography | resell    | —         | —             | high           | medium | 5      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
