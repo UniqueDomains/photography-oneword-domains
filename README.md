@@ -1,10 +1,10 @@
-# Available .PHOTOGRAPHY One-Word Domains (31,332)
+# Available .PHOTOGRAPHY One-Word Domains (21,391)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C332%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C391%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .photography one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,332 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,391 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,332 domains · **Median ask:** $11.42 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 21,391 domains · **Median ask:** $12.98 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/photography`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ain.photography   | available | $6.98     | $46.48        | high           | low    | 3      | namecheap                                                 |
-| cat.photography   | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC                                          |
-| aaa.photography   | premium   | $26       | $26           | high           | medium | 3      | namecheap                                                 |
-| bce.photography   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| diy.photography   | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.                                            |
-| abc.photography   | premium   | $28       | $28           | high           | medium | 3      | namecheap                                                 |
-| clx.photography   | available | $6.98     | $46.48        | high           | low    | 3      | namecheap                                                 |
-| eat.photography   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| aid.photography   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
-| cnn.photography   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| info.photography  | resell    | —         | —             | high           | medium | 4      | Virtualia LLC                                             |
-| ape.photography   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
-| cxl.photography   | available | $6.98     | $46.48        | high           | low    | 3      | namecheap                                                 |
-| cloud.photography | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| ate.photography   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
-| eid.photography   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| earth.photography | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                                           |
-| bar.photography   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
-| lcd.photography   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| panda.photography | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| bbs.photography     | available | $6.98     | $46.48        | high           | low    | 3      | namecheap                  |
+| hot.photography     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC           |
+| ala.photography     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                   |
+| bey.photography     | available | $14.49    | $36.49        | medium         | low    | 3      | namesilo                   |
+| dank.photography    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| atf.photography     | premium   | $26       | $26           | high           | low    | 3      | namecheap                  |
+| gip.photography     | available | $6.98     | $46.48        | medium         | low    | 3      | namecheap                  |
+| lion.photography    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| cpr.photography     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                   |
+| llp.photography     | available | $9.99     | —             | high           | low    | 3      | name.com                   |
+| edwin.photography   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC           |
+| dis.photography     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                   |
+| pbs.photography     | available | $14.49    | $36.49        | high           | low    | 3      | namesilo                   |
+| animals.photography | resell    | —         | —             | high           | low    | 7      | Squarespace Domains II LLC |
+| fan.photography     | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo                   |
+| pee.photography     | available | $6.98     | $46.48        | medium         | low    | 3      | namecheap                  |
+| massive.photography | resell    | —         | —             | high           | low    | 7      | Tucows Domains Inc.        |
+| few.photography     | premium   | $26       | $26           | high           | low    | 3      | namecheap                  |
+| uuq.photography     | available | $14.49    | $36.49        | medium         | low    | 3      | namesilo                   |
+| posters.photography | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,332 live domains                        |
+| 1,000-row public sample | 21,391 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOGRAPHY One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
